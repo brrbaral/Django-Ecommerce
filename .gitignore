@@ -1,0 +1,6 @@
+#Distribution/Packaging
+venv/
+.venv
+#DATABASE
+*.sqlite3
+*.db
