@@ -1,1 +1,1 @@
-# Django-Ecommerce
+# Ecommerce website using Python/ Django
